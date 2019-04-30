@@ -119,6 +119,7 @@ public class FormularioPersona extends javax.swing.JFrame {
         jLabel8.setForeground(new java.awt.Color(153, 0, 0));
         jLabel8.setText("FORMULARIO DE PERSONAS");
 
+        jButton1.setBackground(new java.awt.Color(255, 0, 0));
         jButton1.setText("CONSULTAR");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -126,8 +127,10 @@ public class FormularioPersona extends javax.swing.JFrame {
             }
         });
 
+        jButton2.setBackground(new java.awt.Color(255, 0, 0));
         jButton2.setText("GUARDAR");
 
+        jButton3.setBackground(new java.awt.Color(255, 0, 0));
         jButton3.setText("ELIMINAR");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
